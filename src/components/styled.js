@@ -55,3 +55,11 @@ export const SearchCard = styled.div`
     margin: 0;
   }
 `;
+
+export const DataDidNotLoad = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 35vh;
+  width: 100vw;
+`;
